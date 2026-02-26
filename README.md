@@ -44,7 +44,7 @@ I love building intelligent systems that solve real-world problems. Currently wo
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn**: [Anuj Gupta](https://www.linkedin.com/in/anuj-gupta-b13643226) *(or your exact link)*
+- **LinkedIn**: [Anuj Gupta](https://www.linkedin.com/in/anuj-gupta-89ab2036b/)
 - **Portfolio**: [anuj-portfolio-psi.vercel.app](https://anuj-portfolio-psi.vercel.app)
 - **Email**: anujgupta5642@gmail.com *(add yours)*
 
