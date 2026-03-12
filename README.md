@@ -27,7 +27,7 @@ I love building intelligent systems that solve real-world problems. Currently wo
 | Project | Tech Stack | Status |
 |---------|------------|--------|
 | **[Gate AI Assistant](https://github.com/Anuj5642/Gate-AI-Assistant)** | Python, RAG, LLM | **In Progress** – Implementing Retrieval-Augmented Generation for accurate & contextual responses |
-| **[Predicting Life Expectancy](https://github.com/Anuj5642/Predicting-Life-Expectancy)** | Python, Scikit-learn, IBM Watson, Node-RED | Completed – ML model with interactive UI |
+| **[Predicting Life Expectancy](https://github.com/Anuj5642/Predicting-Life-Expectancy)** | Python, Scikit-learn, IBM Watson, Node-RED | Ongoing – ML model with interactive UI |
 | **[SMS Spam Detector](https://github.com/Anuj5642/SMS-Spam-Detector)** | Python, NLP, Machine Learning | Completed |
 | **[Arduino Web Simulator](https://github.com/Anuj5642/Arduino-Web-Simulator)** | JavaScript, HTML, CSS | Completed (FOSSEE Internship) |
 | **[Personal Portfolio](https://github.com/Anuj5642/Anuj-Portfolio)** | HTML, CSS, Vercel | Live → [View Portfolio](https://anuj-portfolio-psi.vercel.app) |
